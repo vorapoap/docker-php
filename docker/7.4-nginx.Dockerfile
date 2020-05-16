@@ -53,6 +53,10 @@ ARG DEPS="\
         php7.4-json \
         php7.4-posix \
         php7.4-fpm \
+        php7.4-openssl \
+        php7.4-gd \
+        php7.4-mysqli \
+        php7.4-sockets \
         curl \
         ca-certificates \
         runit \
